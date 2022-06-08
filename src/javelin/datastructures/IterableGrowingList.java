@@ -1,4 +1,4 @@
-package datastructures;
+package javelin.datastructures;
 
 import java.util.Collection;
 import java.util.Iterator;

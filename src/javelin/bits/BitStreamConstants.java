@@ -1,4 +1,4 @@
-package bits;
+package javelin.bits;
 
 /** Useful constants for bit manipulation */
 public enum BitStreamConstants {

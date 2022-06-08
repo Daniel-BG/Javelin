@@ -1,4 +1,4 @@
-package bits;
+package javelin.bits;
 
 /**
  * Enum class for making it easy to work with bits and transform other types to/from them

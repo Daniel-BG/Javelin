@@ -1,4 +1,4 @@
-package bits;
+package javelin.bits;
 
 import java.io.IOException;
 import java.io.OutputStream;

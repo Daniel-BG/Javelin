@@ -1,4 +1,4 @@
-package misc;
+package javelin.misc;
 
 /**
  * @author Daniel
@@ -42,5 +42,17 @@ public class MathOperations {
 	    if ( b == 1)        return a;
 	    if ( b % 2 == 0)    return     pow ( a * a, b/2); //even a=(a^2)^b/2
 	    else                return a * pow ( a * a, b/2); //odd  a=a*(a^2)^b/2
+	}
+
+
+	/**
+	 * Clamp data to the specified interval (both inclusve)
+	 * @param data
+	 * @param l
+	 * @param m
+	 * @return
+	 */
+	public static long clamp(long data, long lowerLimit, long upperLimit) {
+		return data < lowerLimit ? lowerLimit : data > upperLimit ? upperLimit : data;
 	}
 }

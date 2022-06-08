@@ -1,6 +1,6 @@
-package debug;
+package javelin.debug;
 
-import misc.MathOperations;
+import javelin.misc.MathOperations;
 
 /**
  * Some common functions for the logger and profiler for formatting times and traces

@@ -1,4 +1,4 @@
-package bits;
+package javelin.bits;
 
 /**
  * Bitwise operations go here

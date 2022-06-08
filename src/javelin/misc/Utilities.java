@@ -1,4 +1,4 @@
-package misc;
+package javelin.misc;
 
 import java.util.Collection;
 

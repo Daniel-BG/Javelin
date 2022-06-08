@@ -1,4 +1,4 @@
-package datastructures;
+package javelin.datastructures;
 
 /**
  * Wrapper for integer arrays of arrays

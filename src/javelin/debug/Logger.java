@@ -1,6 +1,6 @@
-package debug;
+package javelin.debug;
 
-import debug.InfoFormatter.Precision;
+import javelin.debug.InfoFormatter.Precision;
 
 /**
  * @author Daniel

@@ -1,4 +1,4 @@
-package datastructures;
+package javelin.datastructures;
 
 import java.util.HashMap;
 import java.util.Map.Entry;
